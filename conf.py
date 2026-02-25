@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Complete Guide to Download, Install VVIPAR with Key Code Successfully"
+html_title = "Guide to Download & Reinstall VVIPAR Using Product Key After System Reset"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
